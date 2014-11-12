@@ -20,6 +20,7 @@ body {
 p {
     font-size: 14px;
     line-height: 1.75;
+    text-align: justify;
 }
 
 p.large {
@@ -276,7 +277,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/city.png);
+    background-image: url(../img/quebecdiapo.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -332,6 +333,10 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
+}
+
+.force-left {
+    text-align: left;
 }
 
 section h2.section-heading {
